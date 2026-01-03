@@ -1,4 +1,4 @@
-## Java Game Project
+## MINIEMPIRE GAME Project
 
 ### How to run the game:
 1. Make sure Java is installed
